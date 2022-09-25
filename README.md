@@ -2,9 +2,6 @@
 
 <!--
 **jrossouw97/jrossouw97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Msc Cyber security related to aviation...
 - 🌱 I’m currently learning how to use GitHub and starting an e-portfolio...
 - 👯 I’m looking to collaborate on Github and any software programs...
